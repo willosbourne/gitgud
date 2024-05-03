@@ -21,4 +21,4 @@ asdf
 - six
 
 ---
-copywrite 2024
+copywrite © 2024
