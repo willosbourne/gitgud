@@ -21,4 +21,4 @@ asdf
 - six
 
 ---
-footer
+copywrite © 2024
